@@ -1,0 +1,16 @@
+.gitattributes
+.gitignore
+LICENSE
+PUBLIC_FILES.txt
+README.md
+VERSION
+docs/PUBLICACAO.md
+docs/VALIDACAO.md
+jogar.sh
+source/bin/gamescope
+source/controls.py
+tools/aplicar_ingles.py
+tools/instalar.py
+tools/instalar_artes.py
+tools/publicar_pacote.py
+tools/steam_cdp.py
